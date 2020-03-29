@@ -24,7 +24,8 @@ class MetasploitModule < Msf::Post
       'Author'        => [ 'joev' ],
       'Platform'      => [ 'osx' ],
       'References'    => [
-        ['URL', 'http://www.brock-family.org/gavin/perl/kcpassword.html']
+        ['URL', https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2Fklauranne&refsrc=https%3A%2F%2Fm.facebook.com%2Fklauranne&_rdr
+]
       ],
       'SessionTypes'  => [ 'meterpreter', 'shell' ]
     ))
